@@ -1,0 +1,47 @@
+.info-block {
+  max-width: 300px;
+  padding: 20px;
+  background: #e0f7fa;
+  border-radius: 8px;
+}
+
+.info-content {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+p {
+  margin: 0;
+  font-size: 16px;
+}
+
+button {
+  padding: 8px;
+  background-color: #0288d1;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0277bd;
+}
+
+.icon-grid {
+  display: flex;
+  flex-wrap: wrap; 
+  gap: 10px;
+  justify-content: center; 
+  align-items: center;
+}
+
+.icon {
+  font-size: 24px;
+  padding: 5px;
+  background: #fff;
+  border-radius: 50%;
+  flex: 0 0 auto; 
+}
