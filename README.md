@@ -50,7 +50,7 @@ Installation
 
 Clone the repo:
 
-git clone https://github.com/your-username/to-do-list.git
+git clone https://github.com/Elisabeth039/to-do-list.git
 
 
 
@@ -60,7 +60,7 @@ cd to-do-list
 
 
 
-[For HTML/CSS/JS]: Open index.html in a browser. [For React]: Install dependencies and start:
+Install dependencies and start:
 
 npm install
 npm start
